@@ -17,15 +17,19 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 :man_technologist: About Me :
-I am a Frontend Developer <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.</span>
+I am a Frontend Developer  <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>  from Belarus. I’m working as a Software Engineer and contributing to frontend for building web applications.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- :pushpin: HTML, CSS(SASS), Figma: I have experience in making responsive, cross-browser web-applications, use semantic markup, flexbox and grid, know basic principles of BEM.
 
-- :seedling: Exploring Technical Content Writing.
+- :pushpin: JavaScript: I know how to work with DOM, have experience in asynchronous requests and promises, understand how EventLoop works, able to use ES6+ with all the modern features of this language.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :pushpin: Typescript: I have basic knowledge of this language, including data types, classes, interfaces, decorators and hooks.
+  
+- :pushpin: React: Understanding of fundamental concepts of React, such as components, component lifecycle, props and state, elements rendering and events handling. I use React-Router to navigate between pages.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sgulyako/)
+- :pushpin: Redux/Redux Toolkit: I am able to create a redux-store and know how to connect it to react components. Experience in using redux-middleware to manage asynchronous operations
+
+- :pushpin: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sgulyako/)
   
 ---
 
